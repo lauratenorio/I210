@@ -1,0 +1,32 @@
+/* select an element to style */
+
+h1 {
+  font-size: 40px;
+  background-color: lightcoral;
+  margin: 20px 0px 20px 0px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  border: 4px solid black;
+}
+/* select a class to style; remember to use . */
+.crazy-text {
+  color: rgb(189, 157, 236);
+  background-color: rgb(94, 93, 93);
+  width: 200px;
+}
+/* select a class to style; remember to use # */
+#one {
+  color: blue;
+}
+/* select a nested element /tag to style */
+ol li {
+  background-color: greenyellow;
+}
+
+h3 + p {
+  font-size: 10px;
+}
+
+span {
+  background-color: aquamarine;
+}
