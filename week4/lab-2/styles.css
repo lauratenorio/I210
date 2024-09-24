@@ -1,0 +1,17 @@
+footer {
+  background-color: rgb(165, 171, 255);
+  height: 30px;
+  color: rgb(24, 120, 24);
+}
+
+ul {
+  color: red;
+}
+
+table {
+  background-color: yellow;
+}
+
+header {
+  background-color: rgb(183, 255, 255);
+}
